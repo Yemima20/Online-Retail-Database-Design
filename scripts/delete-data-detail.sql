@@ -1,0 +1,1 @@
+DELETE FROM detail_product WHERE detail_id = 9;

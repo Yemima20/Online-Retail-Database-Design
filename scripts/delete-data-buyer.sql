@@ -1,0 +1,1 @@
+DELETE FROM buyer WHERE buyer_id in(1, 7);
